@@ -6,6 +6,7 @@
 * Foi utilizado um banco de dados postgres em nuvem através da neontech.
   * ACESSO INSTRUTOR: https://omni-gym-instrutor.vercel.app/login
   * ACESSO ALUNO: https://omni-gym-aluno.vercel.app/login
+  * OBS: Os dados podem demorar para carregar devido ao estado de hibernação do Render.
 
 ## Descrição
 
