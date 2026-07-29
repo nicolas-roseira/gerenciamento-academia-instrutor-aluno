@@ -1,5 +1,12 @@
 # Omni Gym
 
+## Como Acessar
+* Foi utilizado o Vercel para realizar um rápido deploy das interfaces frontends;
+* Foi utilizado o Render para hospedagem da API;
+* Foi utilizado um banco de dados postgres em nuvem através da neontech.
+  * ACESSO INSTRUTOR: https://omni-gym-instrutor.vercel.app/login
+  * ACESSO ALUNO: https://omni-gym-aluno.vercel.app/login
+
 Ecossistema web para gestao de academia com foco em acessibilidade biomecanica, acompanhamento de alunos, prescricao de treinos adaptados, controle financeiro e gestao de documentos medicos.
 
 O repositorio e dividido em tres projetos principais:
